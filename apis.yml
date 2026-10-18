@@ -31,6 +31,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nio.png
 tags:
   - Automotive
+  - Connected Vehicles
+  - Electric Vehicles
+  - NIO
+tags_raw:
+  - Automotive
   - Connected Car
   - Electric Vehicles
   - NIO
